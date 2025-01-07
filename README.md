@@ -6,14 +6,14 @@ The main objective of this project was to build a predictive model to identify c
 
 ## Dataset Structure
 The dataset for this project was organized into Excel data warehouse that store Telecommunication data information.
-  - [Sales data :](https://github.com/jemisha29/Sales-Analysis-and-Forecasting-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx) Contain information about orders date, Product type, Sales, Profit, region etc.
+  - [Sales data :](https://github.com/jemisha29/Customer-Churn-Analysis-for-Telecommunication-Services/blob/main/Telco_customer_churn.xlsx) Contain information about Customer Id, City, Contract etc.
 
 ## Tools
 
   * **Excel** - Data Cleaning & Data Analysis
   * **PowerBI** - Creating reports
 
-  Power BI Dashboard : [here](https://github.com/jemisha29/Sales-Analysis-and-Forecasting-Dashboard/blob/main/Sales%20analysis%20and%20forcasting.pbix)
+  Power BI Dashboard : [here](https://github.com/jemisha29/Customer-Churn-Analysis-for-Telecommunication-Services/blob/main/customer%20churn%20dashboard.pbix)
   
 ## Analysis 
 ### KPI's

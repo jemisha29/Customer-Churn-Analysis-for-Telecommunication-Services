@@ -36,10 +36,10 @@ The dataset for this project was organized into Excel data warehouse that store 
   10. Churned Customers by City
 
 
-![analysis](https://github.com/user-attachments/assets/3acd52ea-9883-4945-b2db-dbde8c580f9d)
+![first](https://github.com/user-attachments/assets/de3e5326-4eef-461d-ae98-ac7af35ee068)
 
 
-![forcasting](https://github.com/user-attachments/assets/d59c75e3-9182-409a-ab81-2e314972dba5)
+![second](https://github.com/user-attachments/assets/bcc5e1d8-575f-48ec-ae45-0647db26be9c)
 
 ## Insights
 

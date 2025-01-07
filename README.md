@@ -6,7 +6,7 @@ The main objective of this project was to build a predictive model to identify c
 
 ## Dataset Structure
 The dataset for this project was organized into Excel data warehouse that store Telecommunication data information.
-  - [Sales data :](https://github.com/jemisha29/Customer-Churn-Analysis-for-Telecommunication-Services/blob/main/Telco_customer_churn.xlsx) Contain information about Customer Id, City, Contract etc.
+  - [Telco data :](https://github.com/jemisha29/Customer-Churn-Analysis-for-Telecommunication-Services/blob/main/Telco_customer_churn.xlsx) Contain information about Customer Id, City, Contract etc.
 
 ## Tools
 
